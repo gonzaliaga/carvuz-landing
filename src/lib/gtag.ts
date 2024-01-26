@@ -1,6 +1,3 @@
-import script from 'next/script';
-import React from 'react';
-import React from 'react';
 import React from 'react';
 declare global {
   interface Window {
